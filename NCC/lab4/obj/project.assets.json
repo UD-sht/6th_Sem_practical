@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/uday/Documents/6th_Sem/Practical(6th_sem)/NCC/la4/la4.csproj",
+      "projectUniqueName": "/home/uday/Documents/6th_Sem/Practical(6th_sem)/NCC/lab4/la4.csproj",
       "projectName": "la4",
-      "projectPath": "/home/uday/Documents/6th_Sem/Practical(6th_sem)/NCC/la4/la4.csproj",
+      "projectPath": "/home/uday/Documents/6th_Sem/Practical(6th_sem)/NCC/lab4/la4.csproj",
       "packagesPath": "/home/uday/.nuget/packages/",
-      "outputPath": "/home/uday/Documents/6th_Sem/Practical(6th_sem)/NCC/la4/obj/",
+      "outputPath": "/home/uday/Documents/6th_Sem/Practical(6th_sem)/NCC/lab4/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/uday/.nuget/NuGet/NuGet.Config"

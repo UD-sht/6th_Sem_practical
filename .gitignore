@@ -1,2 +1,6 @@
-*/bin
-*/obj
+*\bin
+*\obj
+NCC/lab4/obj/la4.csproj.nuget.dgspec.json
+NCC/lab4/obj/project.assets.json
+NCC/lab4/obj/project.nuget.cache
+NCC/lab3/obj/Debug/net6.0/lab3.csproj.AssemblyReference.cache
