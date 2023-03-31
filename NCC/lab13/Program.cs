@@ -15,7 +15,7 @@ using System.Threading.Tasks;
         {
 List<Dog> dogs = new List<Dog>() 
             {
-             new Dog { Name = "Rex", Age = 4 },
+             new Dog { Name = "Ren", Age = 4 },
              new Dog { Name = "Sean", Age = 0 },
              new Dog { Name = "Stacy", Age = 3 }
             };            var names = dogs.Select(x => x.Name);
