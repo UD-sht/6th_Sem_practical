@@ -3,7 +3,7 @@
         static void Main(string[] args)
         {
             string fileLoc = @"file1.txt";
-            FileStream fs = null;
+            FileStream fs;
             if (!File.Exists(fileLoc))
             {
                 using (fs = File.Create(fileLoc))

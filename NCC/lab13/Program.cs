@@ -13,16 +13,16 @@ using System.Threading.Tasks;
     {
         static void Main(string[] args)
         {
-List<Dog> dogs = new List<Dog>() 
+            List<Dog> dogs = new List<Dog>() 
             {
              new Dog { Name = "Ren", Age = 4 },
              new Dog { Name = "Sean", Age = 0 },
              new Dog { Name = "Stacy", Age = 3 }
-            };            var names = dogs.Select(x => x.Name);
+            };            
+            var names = dogs.Select(x => x.Name);
             foreach (var name in names)
             {
                 Console.WriteLine(name);
-
             }
             Console.ReadLine();
         }
