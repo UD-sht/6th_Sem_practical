@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
     class Dog
     {
-        public string Name { get; set; }
+        public string? Name { get; set; }
         public int Age { get; set; }
     }
     class Program
